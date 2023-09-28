@@ -1,0 +1,6 @@
+{
+    "csv_path": "C:\\Users\\Daniela\\Desktop\\Cristian\\mi_archivo.csv",
+    "api_key": "a52fa56bb863ba45d7e981af8e1d4be969009406ecd8a9f68a30fd618ac3044699f291c31f42489b",
+    "abuseipdb_url": "https://api.abuseipdb.com/api/v2/check",
+    "ip_list_txt_path": "C:\\Users\\Daniela\\Desktop\\Cristian\\ip_list.txt"
+}
